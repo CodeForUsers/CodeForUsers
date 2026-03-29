@@ -67,15 +67,6 @@ david = {
 
 ---
 
-## GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeForUsers&show_icons=true&theme=transparent&hide_border=true&title_color=4F98A3&icon_color=4F98A3&text_color=8b949e" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForUsers&layout=compact&theme=transparent&hide_border=true&title_color=4F98A3&text_color=8b949e" alt="Top languages" />
-</div>
-
----
-
 ## Current focus
 
 - Improving Odoo architectures and reusable modules.
