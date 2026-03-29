@@ -1,8 +1,8 @@
 <div align="center">
 
-# David Carreres
+# David 🫡
 
-### Backend Developer · Odoo Specialist · Integrations · DevOps
+### Backend Developer · Odoo Developer · Integrations · DevOps
 
 Building Odoo modules, marketplace integrations, APIs, and cloud infrastructure from Spain.
 
