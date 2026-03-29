@@ -61,7 +61,8 @@ david = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-F7DF1E?style=flat-square&logo=html5&logoColor=black" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-57B9FF?style=flat-square&logo=css&logoColor=black" alt="CSS3" />
 </p>
 
 ---
@@ -85,4 +86,4 @@ david = {
 
 <div align="center">
 
-> “Build useful things. Keep them clean. Make 
+> Build useful things. Keep them clean. ❤️
