@@ -39,7 +39,7 @@ david = {
         "Odoo module development & ERP customization",
         "Marketplace connectors (Amazon, eBay, WooCommerce, Mirakl, Shopify)",
         "REST APIs & backend services with Python / FastAPI",
-        "Cloud & DevOps with Docker, Linux, and Cloudflare",
+        "Cloud & DevOps with Docker, Linux, macOS, Windows, and Cloudflare",
     ],
     "currently_learning": ["advanced optimization"],
     "beyond_code":        ["Gym 🏋️", "Gaming 🎮", "Open Source 🔓"],
@@ -54,6 +54,7 @@ david = {
 | **Marketplace Connectors** | Amazon, eBay, WooCommerce, Shopify, Mirakl, Temu |
 | **APIs & Backend** | FastAPI services, REST integrations, database design (PostgreSQL) |
 | **Cloud & DevOps** | Docker, VPS management, automated backups, Cloudflare, CI/CD |
+| **Cross-Platform** | Development and deployment on Linux, macOS, and Windows |
 
 ### 🧰 Tech Stack
 
@@ -64,6 +65,8 @@ david = {
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-007AC4?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -96,7 +99,7 @@ david = {
         "Módulos Odoo y personalización de ERP",
         "Conectores para marketplaces (Amazon, eBay, WooCommerce, Mirakl, Shopify)",
         "APIs REST y servicios backend con Python / FastAPI",
-        "Cloud y DevOps con Docker, Linux y Cloudflare",
+        "Cloud y DevOps con Docker, Linux, macOS, Windows y Cloudflare",
     ],
     "aprendiendo_ahora": ["optimización avanzada"],
     "fuera_del_código":  ["Gym 🏋️", "Gaming 🎮", "Open Source 🔓"],
@@ -111,6 +114,7 @@ david = {
 | **Conectores Marketplace** | Amazon, eBay, WooCommerce, Shopify, Mirakl, Temu |
 | **APIs y Backend** | Servicios FastAPI, integraciones REST, diseño de bases de datos (PostgreSQL) |
 | **Cloud y DevOps** | Docker, gestión de VPS, backups automatizados, Cloudflare, CI/CD |
+| **Multiplataforma** | Desarrollo y despliegue en Linux, macOS y Windows |
 
 ### 🧰 Tech Stack
 
@@ -121,6 +125,8 @@ david = {
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-007AC4?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
