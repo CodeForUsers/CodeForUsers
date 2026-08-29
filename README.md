@@ -4,7 +4,7 @@
 
 # David Carreres · `@CodeForUsers`
 
-**Desarrollador Backend Freelance · Especialista Odoo · Integración con Marketplaces · DevOps**
+**Desarrollador Full Stack · Especialista Odoo · Integración con Marketplaces · DevOps**
 
 <p>
   <a href="https://carreres.es" target="_blank">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4F98A3&center=true&vCenter=true&width=700&lines=Desarrollo+de+M%C3%B3dulos+Odoo+(16-19);Conectores+para+Marketplaces+y+E-commerce;APIs+REST+%7C+FastAPI+%7C+PostgreSQL;Infraestructura+Cloud+%26+Automatizaci%C3%B3n;Construyendo+desde+Valencia%2C+Espa%C3%B1a+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4F98A3&center=true&vCenter=true&width=700&lines=Desarrollo+de+M%C3%B3dulos+Odoo+(16-19);Conectores+para+Marketplaces+y+E-commerce;Desarrollo+Full+Stack+%7C+APIs+REST+%7C+PostgreSQL;Infraestructura+Cloud+%26+Automatizaci%C3%B3n;Construyendo+desde+Valencia%2C+Espa%C3%B1a+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
 
 </div>
 
@@ -26,20 +26,25 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **desarrollador backend freelance** ubicado en Valencia, España. Me especializo en el desarrollo y personalización del **ERP Odoo**, la creación de **conectores robustos para marketplaces** y la automatización de procesos empresariales mediante APIs de alto rendimiento e infraestructura cloud.
+Soy **desarrollador Full Stack** ubicado en Valencia, España. Me especializo en el desarrollo y personalización del **ERP Odoo**, la creación de **conectores robustos para marketplaces** y la automatización de procesos empresariales mediante arquitecturas escalables, interfaces intuitivas e infraestructura cloud.
 
 ```python
 david = {
     "ubicacion": "Valencia, España 🇪🇸",
-    "rol": "Desarrollador Backend Freelance",
+    "rol": "Desarrollador Full Stack",
     "especialidades": [
         "Desarrollo de módulos Odoo y personalización de ERP (v16 a v19)",
-        "Conectores de marketplaces (Amazon SP-API, eBay, Mirakl, Shopify, Temu, WooCommerce)",
-        "Microservicios y APIs REST con Python / FastAPI",
+        "Conectores de marketplaces (Amazon SP-API, eBay, Mirakl, Temu, WooCommerce)",
+        "Desarrollo Full Stack y APIs REST con Python / FastAPI",
         "Infraestructura cloud, Docker y despliegues con alta disponibilidad",
     ],
     "foco_actual": "Optimización de flujos logísticos y sincronización multicanal",
-    "intereses": ["Open Source 🔓", "Optimización y rendimiento ⚡", "Gym 🏋️", "Gaming 🎮"]
+    "intereses": [
+        "Open Source 🔓",
+        "Arquitectura de Software 🏛️",
+        "Rendimiento y Optimización ⚡",
+        "Automatización de Procesos 🤖",
+    ]
 }
 ```
 
@@ -50,8 +55,8 @@ david = {
 | Área | Soluciones y Capacidades |
 |---|---|
 | 📦 **Módulos Odoo** | Creación y migración de módulos personalizados, optimización de stock, reglas avanzadas de facturación y precios, flujos de trabajo a medida en Odoo 16 / 17 / 18 / 19. |
-| 🔄 **Conectores Marketplace** | Sincronización bidireccional automática de catálogo, precios, pedidos y stock para Amazon SP-API, eBay, Mirakl, WooCommerce, Shopify y Temu. |
-| ⚡ **APIs y Microservicios** | Diseño y desarrollo de APIs REST seguras y escalables con FastAPI/Python, modelado y optimización de bases de datos PostgreSQL. |
+| 🔄 **Conectores Marketplace** | Sincronización bidireccional automática de catálogo, precios, pedidos y stock para Amazon SP-API, eBay, Mirakl, WooCommerce y Temu. |
+| ⚡ **Full Stack & APIs** | Desarrollo frontend y backend, APIs REST seguras y escalables con FastAPI/Python, modelado y optimización de bases de datos PostgreSQL. |
 | ☁️ **Cloud, DevOps y Servidores** | Contenedores Docker, configuración de VPS/servidores Linux, pipelines de CI/CD, automatización de copias de seguridad y seguridad con Cloudflare. |
 
 ---
@@ -60,7 +65,7 @@ david = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,linux,cloudflare,git,githubactions" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,html,css,postgres,redis,docker,linux,cloudflare,git,githubactions" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -68,10 +73,9 @@ david = {
 <p>
   <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/Amazon_SP--API-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
   <img src="https://img.shields.io/badge/eBay-E53238?style=flat-square&logo=ebay&logoColor=white" alt="eBay" />
-  <img src="https://img.shields.io/badge/Mirakl-002E44?style=flat-square&logo=shopify&logoColor=white" alt="Mirakl" />
+  <img src="https://img.shields.io/badge/Mirakl-002E44?style=flat-square&logo=target&logoColor=white" alt="Mirakl" />
 </p>
 
 ---
@@ -119,13 +123,13 @@ david = {
 - ⚙️ **Módulos Odoo Personalizados:** Automatización de flujos de almacén, cálculo dinámico de costes y gestión avanzada de tarifas.
 - 🔌 **APIs de Integración:** Microservicios en FastAPI para conectar sistemas legados con plataformas modernas de e-commerce.
 
-*(Más información sobre servicios y casos prácticos en [carreres.es](https://carreres.es))*
+*(Más información sobre proyectos y servicios en [carreres.es](https://carreres.es))*
 
 ---
 
-## 📬 ¿Tienes un proyecto o necesitas consultoría técnica?
+## 📬 Contacto y Consultoría Técnica
 
-Estoy disponible para proyectos freelance, consultoría especializada y desarrollo de módulos o integraciones a medida:
+Disponible para consultoría técnica, desarrollo de módulos a medida e integraciones empresariales:
 
 - 🌐 **Web:** [carreres.es](https://carreres.es)
 - 💼 **LinkedIn:** [davidcarreresg](https://linkedin.com/in/davidcarreresg)
