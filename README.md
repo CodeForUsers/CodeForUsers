@@ -65,7 +65,7 @@ david = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,html,css,postgres,redis,docker,linux,cloudflare,git,githubactions" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,html,css,postgres,docker,linux,cloudflare,git,githubactions" alt="Tech Stack Icons" />
   </a>
 </p>
 
