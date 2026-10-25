@@ -6,6 +6,15 @@
 ### Full Stack Developer · Backend & APIs · Cloud & DevOps
 
 <p align="center">
+  <a href="https://foredu.es" target="_blank">
+    <img src="https://img.shields.io/badge/FOREDU%20SOLUTIONS%20S.L.-Full%20Stack%20Developer-0f172a?style=flat-square&labelColor=1e293b" alt="FOREDU SOLUTIONS S.L." />
+  </a>
+  <a href="https://github.com/OCA" target="_blank">
+    <img src="https://img.shields.io/badge/OCA-Contributor-714B67?style=flat-square&logo=odoo&logoColor=white&labelColor=1e293b" alt="OCA Contributor" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://carreres.es" target="_blank">
     <img src="https://img.shields.io/badge/Sitio_Web-carreres.es-0f172a?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Sitio Web" />
   </a>
@@ -17,7 +26,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=38BDF8&background=0F172A00&center=true&vCenter=true&width=680&lines=Desarrollo+Full+Stack+%7C+Python+%7C+FastAPI;Arquitectura+de+APIs+REST+%26+Bases+de+Datos;Infraestructura+Cloud%2C+Docker+%26+CI%2FCD;Integraci%C3%B3n+de+Sistemas%2C+APIs+%26+ERP;Construyendo+desde+Valencia%2C+Espa%C3%B1a" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=38BDF8&background=0F172A00&center=true&vCenter=true&width=680&lines=Desarrollo+Full+Stack+%7C+Python+%7C+FastAPI;Full+Stack+Developer+%40+FOREDU+SOLUTIONS;OCA+Contributor+%7C+Odoo+Community+Association;Arquitectura+de+APIs+REST+%26+Bases+de+Datos;Infraestructura+Cloud%2C+Docker+%26+CI%2FCD;Integraci%C3%B3n+de+Sistemas%2C+APIs+%26+ERP;Construyendo+desde+Valencia%2C+Espa%C3%B1a" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +34,7 @@
 
 ## Sobre mí
 
-Desarrollador **Full Stack** enfocado en el diseño, desarrollo y despliegue de **aplicaciones web escalables**, **APIs REST de alto rendimiento** e infraestructura cloud. Experiencia transversal que abarca desde la arquitectura de bases de datos y microservicios backend, hasta el despliegue continuo y la integración con plataformas empresariales y ERPs.
+Desarrollador **Full Stack** en **FOREDU SOLUTIONS S.L.** y **Contributor** activo de la **OCA** ([Odoo Community Association](https://github.com/OCA)). Especializado en el diseño, desarrollo y despliegue de **aplicaciones web escalables**, **APIs REST de alto rendimiento** e integración de plataformas empresariales y ERPs. Experiencia transversal que abarca desde la arquitectura de bases de datos y microservicios backend, hasta el despliegue continuo en entornos cloud y la colaboración en software libre.
 
 ```bash
 david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
@@ -33,17 +42,19 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
   "name": "David Carreres Gómez",
   "handle": "@CodeForUsers",
   "role": "Full Stack Developer",
+  "company": "FOREDU SOLUTIONS S.L.",
   "location": "Valencia, Spain",
+  "community": "OCA Contributor (Odoo Community Association)",
   "core_competencies": [
     "Desarrollo Full Stack y arquitectura de aplicaciones web",
     "Diseño de APIs REST y microservicios de alto rendimiento (FastAPI, Python)",
     "Modelado relacional, optimización y gestión de bases de datos (PostgreSQL)",
     "Contenedorización, entornos Linux y pipelines de CI/CD (Docker, GitHub Actions)",
-    "Integración de sistemas, arquitecturas de datos y ERPs empresariales (Odoo)"
+    "Integración de sistemas, arquitecturas de datos y ERPs empresariales (Odoo / OCA)"
   ],
   "focus": "Construcción de software limpio, modular y tolerante a fallos",
   "interests": [
-    "Open Source",
+    "Open Source & OCA",
     "Arquitectura de software",
     "Rendimiento y optimización",
     "Automatización de procesos"
@@ -73,7 +84,7 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
     </td>
     <td width="50%" valign="top">
       <h4>Integraciones & Ecosistemas ERP</h4>
-      <p>Sincronización de servicios, conexión de APIs de terceros y desarrollo de extensiones y flujos personalizados en plataformas ERP como Odoo.</p>
+      <p>Sincronización de servicios, conexión de APIs de terceros y desarrollo de extensiones, módulos y flujos personalizados en plataformas ERP como Odoo, siguiendo los estándares de calidad de la OCA.</p>
     </td>
   </tr>
 </table>
@@ -97,6 +108,7 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+  <a href="https://github.com/OCA" target="_blank"><img src="https://img.shields.io/badge/OCA-Contributor-714B67?style=flat-square&logo=odoo&logoColor=white" alt="OCA Contributor" /></a>
 </p>
 
 ---
@@ -141,6 +153,7 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
 <p>
   <img src="https://img.shields.io/github/followers/CodeForUsers?label=Seguidores&style=flat-square&color=0f172a&logo=github&logoColor=38bdf8" alt="Seguidores" />
   <img src="https://img.shields.io/github/repo-size/CodeForUsers/CodeForUsers?label=Tama%C3%B1o%20Repo&style=flat-square&color=0f172a" alt="Repo Size" />
+  <a href="https://github.com/OCA" target="_blank"><img src="https://img.shields.io/badge/OCA-Contributor-714B67?style=flat-square&logo=odoo&logoColor=white" alt="OCA Contributor" /></a>
   <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-0f172a?style=flat-square&logo=statuspage&logoColor=38bdf8" alt="Status" />
 </p>
 
