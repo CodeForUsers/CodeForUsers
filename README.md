@@ -34,7 +34,7 @@
 
 ## Sobre mí
 
-Desarrollador **Full Stack** en **FOREDU SOLUTIONS S.L.** y **Contributor** activo de la **OCA** ([Odoo Community Association](https://github.com/OCA)). Especializado en el diseño, desarrollo y despliegue de **aplicaciones web escalables**, **APIs REST de alto rendimiento** e integración de plataformas empresariales y ERPs. Experiencia transversal que abarca desde la arquitectura de bases de datos y microservicios backend, hasta el despliegue continuo en entornos cloud y la colaboración en software libre.
+Desarrollador **Full Stack** en **FOREDU SOLUTIONS S.L.** y colaborador en la **OCA** ([Odoo Community Association](https://github.com/OCA)). Especializado en el diseño, desarrollo y despliegue de **aplicaciones web escalables**, **APIs REST de alto rendimiento** e integración de plataformas empresariales y ERPs. Experiencia transversal que abarca desde la arquitectura de bases de datos y microservicios backend, hasta el despliegue continuo en entornos cloud y la colaboración en software libre.
 
 ```bash
 david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
@@ -44,17 +44,16 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
   "role": "Full Stack Developer",
   "company": "FOREDU SOLUTIONS S.L.",
   "location": "Valencia, Spain",
-  "community": "OCA Contributor (Odoo Community Association)",
   "core_competencies": [
     "Desarrollo Full Stack y arquitectura de aplicaciones web",
     "Diseño de APIs REST y microservicios de alto rendimiento (FastAPI, Python)",
     "Modelado relacional, optimización y gestión de bases de datos (PostgreSQL)",
     "Contenedorización, entornos Linux y pipelines de CI/CD (Docker, GitHub Actions)",
-    "Integración de sistemas, arquitecturas de datos y ERPs empresariales (Odoo / OCA)"
+    "Integración de sistemas, arquitecturas de datos y ecosistemas ERP (Odoo)"
   ],
   "focus": "Construcción de software limpio, modular y tolerante a fallos",
   "interests": [
-    "Open Source & OCA",
+    "Open Source & Software Libre",
     "Arquitectura de software",
     "Rendimiento y optimización",
     "Automatización de procesos"
@@ -84,7 +83,7 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
     </td>
     <td width="50%" valign="top">
       <h4>Integraciones & Ecosistemas ERP</h4>
-      <p>Sincronización de servicios, conexión de APIs de terceros y desarrollo de extensiones, módulos y flujos personalizados en plataformas ERP como Odoo, siguiendo los estándares de calidad de la OCA.</p>
+      <p>Sincronización de servicios, conexión de APIs de terceros y desarrollo de extensiones y módulos en plataformas ERP como Odoo, aplicando buenas prácticas y estándares de la comunidad.</p>
     </td>
   </tr>
 </table>
@@ -108,7 +107,8 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-  <a href="https://github.com/OCA" target="_blank"><img src="https://img.shields.io/badge/OCA-Contributor-714B67?style=flat-square&logo=odoo&logoColor=white" alt="OCA Contributor" /></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
@@ -153,7 +153,6 @@ david@workstation:~$ curl -s https://carreres.es/profile.json | jq .
 <p>
   <img src="https://img.shields.io/github/followers/CodeForUsers?label=Seguidores&style=flat-square&color=0f172a&logo=github&logoColor=38bdf8" alt="Seguidores" />
   <img src="https://img.shields.io/github/repo-size/CodeForUsers/CodeForUsers?label=Tama%C3%B1o%20Repo&style=flat-square&color=0f172a" alt="Repo Size" />
-  <a href="https://github.com/OCA" target="_blank"><img src="https://img.shields.io/badge/OCA-Contributor-714B67?style=flat-square&logo=odoo&logoColor=white" alt="OCA Contributor" /></a>
   <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-0f172a?style=flat-square&logo=statuspage&logoColor=38bdf8" alt="Status" />
 </p>
 
